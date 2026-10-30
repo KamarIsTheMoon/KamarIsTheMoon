@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Kamar Maroihi 🌙
 
-<!--
-**KamarIsTheMoon/KamarIsTheMoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Honors BBA student at Al Akhawayn University (Ifrane, Morocco) | Finance x AI & Business Analytics | Graduating Fall 2027
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working on a restaurant app for La Mamma (team project) and the Student Stress Index (Honors research)
+- 🌱 I'm currently learning machine learning and data science with Python
+- 👯 I'm looking to collaborate on finance and data projects
+- 🤔 I'm looking for help with building end to end ML projects
+- 💬 Ask me about finance, data analytics, or studying in French and English
+- 🛠️ Tools: Python · SQL · R
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kamar-maroihi-3a033a30a)
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I do archery and horse riding 🏹🐎
